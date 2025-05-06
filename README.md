@@ -13,9 +13,6 @@
  <a href="https://instagram.com/garygaurav13" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="garygaurav13" />
  </a> 
- <a href="https://facebook.com/garygaurav13" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="garygaurav13"  />
-  </a> 
 </p>
 <br />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=garygaurav13&label=Profile%20views&color=0e75b6&style=flat" alt="garygaurav13" /> </p>
