@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurav</h1>
 <h3 align="center">A passionate Full-Stack Developer from India</h3>
 <p align="center">
- <a href="https://codel00m.com" target="blank">
+ <a href="https://stoxar.in" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="garygaurav13" />
  </a>
  <a href="https://linkedin.com/garygaurav13" target="_blank">
@@ -23,13 +23,13 @@
 
 - 🤝 I’m looking for help with **DSA**
 
-- 👨‍💻 All of my projects are available at [https://codel00m.com/](https://codel00m.com/)
+- 👨‍💻 All of my projects are available at [https://stoxar.in/](https://stoxar.in/)
 
-- 📝 I regularly write articles on [https://codel00m.com/blog/](https://codel00m.com/blog/)
+- 📝 I regularly write articles on [https://stoxar.in/blog/](https://stoxar.in/blog/)
 
 - 📫 How to reach me **garygaurav1313@gmail.com**
 
-- 📄 Know about my experiences [https://codel00m.com/resume/](https://codel00m.com/resume/)
+- 📄 Know about my experiences [https://stoxar.in/resume/](https://stoxar.in/resume/)
 
 
 ## Use To Code
